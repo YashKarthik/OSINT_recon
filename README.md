@@ -1,5 +1,5 @@
 # Python script to look for a user on the internet.
-#### It checks for the user on instagram, facebook and github when given the user name.
+#### It checks for the user on instagram, facebook and github when given the user's name.
 #### Usage:
 Just run it through your IDE, it'll ask for the username and rest is automated. 
 #### Modules required:
