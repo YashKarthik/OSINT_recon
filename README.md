@@ -3,7 +3,7 @@
 #### Usage:
 Just run it through your IDE, it'll ask for the username and rest is automated. 
 
-![alt text](https://github.com/[YashKarthik]/[OSINT_recon]/blob/[master]/OSINTscrshot.png?raw=true)
+![alt text](https://github.com/YashKarthik/OSINT_recon/blob/master/OSINTscrshot.png)
 
 
 #### Modules required:
